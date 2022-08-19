@@ -1,0 +1,10 @@
+INSERT INTO tb_pacientes(name,idade,peso,altura,imc) VALUES('Felipe', 36, '86', 1.71, 29.4);
+INSERT INTO tb_pacientes(name,idade,peso,altura,imc) VALUES('Bruna', 39, '76', 1.60, 29.7);
+INSERT INTO tb_pacientes(name,idade,peso,altura,imc) VALUES('Theo', 4, '23', 1.20, 19.0);
+INSERT INTO tb_pacientes(name,idade,peso,altura,imc) VALUES('Samuel', 8, '27', 1.30, 17.3);
+INSERT INTO tb_pacientes(name,idade,peso,altura,imc) VALUES('Carla', 19, '55', 1.65, 20.2);
+INSERT INTO tb_pacientes(name,idade,peso,altura,imc) VALUES('Pedro', 30, '69', 1.75, 22.5);
+INSERT INTO tb_pacientes(name,idade,peso,altura,imc) VALUES('Cleiton', 16, '66', 1.68, 23.4);
+INSERT INTO tb_pacientes(name,idade,peso,altura,imc) VALUES('Jonathan', 25, '92', 1.73, 30.7);
+INSERT INTO tb_pacientes(name,idade,peso,altura,imc) VALUES('Osvaldo', 56, '80', 1.81, 24.4);
+INSERT INTO tb_pacientes(name,idade,peso,altura,imc) VALUES('Fabiana', 50, '93', 1.58, 20.0);
